@@ -1,0 +1,5 @@
+.DS_Store
+# virtualenv
+.venv
+venv/
+ENV/

@@ -1,0 +1,50 @@
+/* Copyright (c) 2019 Brian Ainsworth. All Rights Reserved. */
+.techfont{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.about{
+    
+    border: solid 3px blue;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+.bigbrand{
+    font-size: 1.5em;
+}
+.centerstage{
+    margin-left: auto;
+    margin-right: auto;
+}
+.postdate{
+      text-align: center;
+  }
+.posttitle{
+      font-family: 'PT Sans Narrow', sans-serif;
+      font-size: 3em;
+      text-align: center;
+  }
+.postcontent{
+      font-family: 'Montserrat';
+      font-size: 1.5em;
+  }
+.btn-comment{
+      position: absolute;
+      right: 0px;
+  }
+.post{
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+
+
+  
+ 
